@@ -1,0 +1,4 @@
+3 3
+P E E
+E F E
+E E G
