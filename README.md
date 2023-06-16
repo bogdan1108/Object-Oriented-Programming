@@ -1,2 +1,2 @@
 # Object-Oriented-Programming
-OOP UBB
+OOP UBB by Borza Diana
